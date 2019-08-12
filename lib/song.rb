@@ -1,6 +1,6 @@
 class Song
  
-  attr_accessor :title, :artist
+  attr_accessor :title
  
   def initialize
     @title = title
@@ -9,4 +9,3 @@ class Song
 end
 
 flawless = Song.new
-#flawless.artist = 'Beyonce'
