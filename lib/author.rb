@@ -1,9 +1,9 @@
 class Author
-  attr_accessor :name, :genre
+  attr_accessor :name
  
   def initialize
     @name = name
-    @genre = genre
+    #@genre = genre
   end
   
   # def name
