@@ -12,6 +12,6 @@ class Author
  
 end
 
-beyonce = Artist.new
+jhumpa_lahiri = Author.new
 #("Beyonce", "Pop")
 #puts artist.name
