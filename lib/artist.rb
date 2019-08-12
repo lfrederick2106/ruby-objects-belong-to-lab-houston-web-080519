@@ -12,6 +12,6 @@ class Artist
  
 end
 
-artist = Artist.new
+beyonce = Artist.new
 #("Beyonce", "Pop")
-puts artist.name
+#puts artist.name
