@@ -8,5 +8,5 @@ class Song
  
 end
 
-flawless = Song.new('Flawless')
-flawless.artist = 'Beyonce'
+flawless = Song.new
+#flawless.artist = 'Beyonce'
